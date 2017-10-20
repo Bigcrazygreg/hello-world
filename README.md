@@ -1,2 +1,6 @@
 # hello-world
-just an other repository
+
+Hi you !
+
+Greg here, anime + code = life ;) 
+Over !
