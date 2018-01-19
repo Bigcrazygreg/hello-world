@@ -3,5 +3,5 @@
 Hi you !
 
 Greg here, anime + code = life ;) 
- 
-Changement de text !!
+
+>**Note:** Voici une belle note bien écrite ! :)
